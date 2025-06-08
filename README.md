@@ -2,13 +2,12 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Systems projects group B1</title>
+  <title>Systems Projects Group B1</title>
   <style>
     body {
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
-      /* Fondo degradado suave */
       background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
       min-height: 100vh;
     }
@@ -78,20 +77,32 @@
   </header>
   <div class="container">
     <div class="design-section">
-      <div class="design-title">Diseño 1: Presentación Psicología</div>
-      <a class="design-link" href="https://www.canva.com/design/ejemplo1" target="_blank">Ver diseño en Canva</a>
-      <p>Este diseño es una presentación sobre movimientos psicológicos sociales en Chinchiná, Caldas.</p>
+      <div class="design-title">Diseño 1</div>
+      <a class="design-link" href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <p>Presentación o recurso visual 1.</p>
     </div>
     <div class="design-section">
-      <div class="design-title">Diseño 2: Infografía Salud Mental</div>
-      <a class="design-link" href="https://www.canva.com/design/ejemplo2" target="_blank">Ver diseño en Canva</a>
-      <p>Infografía con datos y consejos para manejar la salud mental en la comunidad.</p>
+      <div class="design-title">Diseño 2</div>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsAYPjzY/Z8OfEn4wRkXZ_Iaw7upeZA/edit?utm_content=DAGpsAYPjzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <p>Presentación o recurso visual 2.</p>
     </div>
     <div class="design-section">
-      <div class="design-title">Diseño 3: Cartel Informativo</div>
-      <a class="design-link" href="https://www.canva.com/design/ejemplo3" target="_blank">Ver diseño en Canva</a>
-      <p>Cartel visual para difusión en redes o lugares públicos de Chinchiná.</p>
+      <div class="design-title">Diseño 3</div>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/UlJmsktWrtpwto1pzPIfTQ/edit?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <p>Presentación o recurso visual 3.</p>
+    </div>
+    <div class="design-section">
+      <div class="design-title">Diseño 4</div>
+      <a class="design-link" href="https://www.canva.com/design/DAGnRPxV7sc/tdY7obUrUe6jgd81soslRg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <p>Presentación o recurso visual 4.</p>
+    </div>
+    <div class="design-section">
+      <div class="design-title">Salud Mental en Chinchiná: Un Panorama General</div>
+      <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Ver presentación en Gamma</a>
+      <p>Documento interactivo sobre la salud mental en Chinchiná, Caldas.</p>
     </div>
   </div>
 </body>
+</html>
+
 </html>
