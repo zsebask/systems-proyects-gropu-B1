@@ -93,7 +93,7 @@
     </div>
     <div class="design-section">
       <div class="design-title">Emprendimiento de galletas</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGnRPxV7sc/tdY7obUrUe6jgd81soslRg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Crumble chocoleit</a>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Crumble chocoleit</a>
       <p></p>
     </div>
     <div class="design-section">
