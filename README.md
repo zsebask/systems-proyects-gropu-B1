@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Systems Projects Group B1</title>
+  <title>Different projects by English students</title>
   <style>
     body {
       margin: 0;
@@ -87,8 +87,8 @@
       <p></p>
     </div>
     <div class="design-section">
-      <div class="design-title">Diseño 3</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/UlJmsktWrtpwto1pzPIfTQ/edit?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"></a>
+      <div class="design-title">Ayuda de la Autoestima</div>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6" target="_blank">Self-esteem</a>
       <p></p>
     </div>
     <div class="design-section">
