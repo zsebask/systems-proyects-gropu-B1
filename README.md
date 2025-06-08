@@ -73,36 +73,35 @@
 </head>
 <body>
   <header>
-    <h1>Mis diseños en Canva</h1>
+    <h1>Systems projects group B1</h1>
   </header>
   <div class="container">
     <div class="design-section">
       <div class="design-title">Diseño 1</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <a class="design-link" href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Mental health</a>
       <p>Presentación o recurso visual 1.</p>
     </div>
     <div class="design-section">
       <div class="design-title">Diseño 2</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGpsAYPjzY/Z8OfEn4wRkXZ_Iaw7upeZA/edit?utm_content=DAGpsAYPjzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsAYPjzY/Z8OfEn4wRkXZ_Iaw7upeZA/edit?utm_content=DAGpsAYPjzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Recycling</a>
       <p>Presentación o recurso visual 2.</p>
     </div>
     <div class="design-section">
       <div class="design-title">Diseño 3</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/UlJmsktWrtpwto1pzPIfTQ/edit?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/UlJmsktWrtpwto1pzPIfTQ/edit?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"></a>
       <p>Presentación o recurso visual 3.</p>
     </div>
     <div class="design-section">
       <div class="design-title">Diseño 4</div>
-      <a class="design-link" href="https://www.canva.com/design/DAGnRPxV7sc/tdY7obUrUe6jgd81soslRg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Ver diseño en Canva</a>
+      <a class="design-link" href="https://www.canva.com/design/DAGnRPxV7sc/tdY7obUrUe6jgd81soslRg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Crumble chocoleit(Emprendimiento)</a>
       <p>Presentación o recurso visual 4.</p>
     </div>
     <div class="design-section">
       <div class="design-title">Salud Mental en Chinchiná: Un Panorama General</div>
-      <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Ver presentación en Gamma</a>
+      <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Mental and psychological movement</a>
       <p>Documento interactivo sobre la salud mental en Chinchiná, Caldas.</p>
     </div>
   </div>
 </body>
 </html>
 
-</html>
