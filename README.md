@@ -119,9 +119,6 @@
       <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Mental and psychological movement</a>
       <p></p>
     </div>
-
-    <!-- Código QR para la página -->
-    <div id="qrcode"></div>
   </div>
 </body>
 </html>
