@@ -73,7 +73,7 @@
 </head>
 <body>
   <header>
-    <h1>Systems projects group B1</h1>
+    <h1>Different projects by English students</h1>
   </header>
   <div class="container">
     <div class="design-section">
