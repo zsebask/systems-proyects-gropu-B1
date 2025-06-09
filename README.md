@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -60,8 +59,10 @@
       color: #2563eb;
       text-decoration: underline;
     }
-    .qrcode-container {
-      margin-top: 12px;
+    #qrcode {
+      margin: 30px auto;
+      width: 150px;
+      height: 150px;
     }
     @media (max-width: 600px) {
       .container {
@@ -77,22 +78,13 @@
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
   <script defer>
     document.addEventListener("DOMContentLoaded", function() {
-      const qrData = [
-        { id: "qrcode1", url: "https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" },
-        { id: "qrcode2", url: "https://www.canva.com/design/DAGpsAYPjzY/Z8OfEn4wRkXZ_Iaw7upeZA/edit?utm_content=DAGpsAYPjzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" },
-        { id: "qrcode3", url: "https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6" },
-        { id: "qrcode4", url: "https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" },
-        { id: "qrcode5", url: "https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" }
-      ];
-      qrData.forEach(item => {
-        new QRCode(document.getElementById(item.id), {
-          text: item.url,
-          width: 120,
-          height: 120,
-          colorDark: "#000000",
-          colorLight: "#ffffff",
-          correctLevel: QRCode.CorrectLevel.H
-        });
+      new QRCode(document.getElementById("qrcode"), {
+        text: "https://zsebask.github.io/systems-proyects-gropu-B1/",
+        width: 150,
+        height: 150,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+        correctLevel: QRCode.CorrectLevel.H
       });
     });
   </script>
@@ -105,28 +97,32 @@
     <div class="design-section">
       <div class="design-title">Salud Mental</div>
       <a class="design-link" href="https://www.canva.com/design/DAGnENNxYO8/v6mkIt9B6fGs09-_iwG4AQ/edit?utm_content=DAGnENNxYO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Mental health</a>
-      <div id="qrcode1" class="qrcode-container"></div>
+      <p></p>
     </div>
     <div class="design-section">
       <div class="design-title">Reciclaje para el planeta</div>
       <a class="design-link" href="https://www.canva.com/design/DAGpsAYPjzY/Z8OfEn4wRkXZ_Iaw7upeZA/edit?utm_content=DAGpsAYPjzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Recycling</a>
-      <div id="qrcode2" class="qrcode-container"></div>
+      <p></p>
     </div>
     <div class="design-section">
       <div class="design-title">Ayuda de la Autoestima</div>
       <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6" target="_blank">Self-esteem</a>
-      <div id="qrcode3" class="qrcode-container"></div>
+      <p></p>
     </div>
     <div class="design-section">
       <div class="design-title">Emprendimiento de galletas</div>
       <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Crumble chocoleit</a>
-      <div id="qrcode4" class="qrcode-container"></div>
+      <p></p>
     </div>
     <div class="design-section">
       <div class="design-title">Salud Mental en Chinchiná: Un Panorama General</div>
       <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Mental and psychological movement</a>
-      <div id="qrcode5" class="qrcode-container"></div>
+      <p></p>
     </div>
+
+    <!-- Código QR para la página -->
+    <div id="qrcode"></div>
   </div>
 </body>
 </html>
+
