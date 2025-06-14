@@ -108,10 +108,5 @@ font-size: 2em;
 <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Mental and psychological movement</a>
 <p></p>
 </div>
-<div class="container">
-  <div class="design-selection">
-    <div class="design-title">adiccion a las drogas</div>
-    <a class="design-link" href="https://www.canva.com/design/DAGp4db5v6M/IFHRQK6PtFTDvrfjGP1TEw/view?utm_content=DAGp4db5v6M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h592c4f068a" target="_blank">drugs addiction</a>  
-</div>
 </body>
 </html>
