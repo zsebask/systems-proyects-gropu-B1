@@ -96,7 +96,7 @@ font-size: 2em;
 <a class="design-link" href="https://www.canva.com/design/DAGpsFabqsk/e0x01yR5GV0Ah3XmoeAY0w/view?utm_content=DAGpsFabqsk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81603f5ec6ui=eyJEIjp7IlQiOnsiQSI6IlBCa0R5Q1pMa3dISENyMDcifX19&utm_content=DAGnRPxV7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Crumble chocoleit</a>
   <p></p>
 </div>
-  <div class="design-selection">
+  <div class="design-section">
     <div class="deisgn-title"> redes sociales</div>
       <a class="deisgn-link" href="https://www.canva.com/design/DAGpsLPMONI/xGH8dWjv4F1mCaKMjv-Wyg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCOVNaN3MxRnMwNTlQRkYifX19&utm_content=DAGpsLPMONI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">the social media</a>
 <p></p>
@@ -106,7 +106,7 @@ font-size: 2em;
 <a class="design-link" href="https://gamma.app/docs/Salud-Mental-en-Chinchina-Un-Panorama-General-mwd7gzq5kom3di6" target="_blank">Mental and psychological movement</a>
 <p></p>
 </div>
-  <div class="design-selector">
+  <div class="design-selection">
     <div class="design-title">adiccion a las drogas</div>
     <a class="design-link" href="https://www.canva.com/design/DAGp4db5v6M/IFHRQK6PtFTDvrfjGP1TEw/view?utm_content=DAGp4db5v6M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h592c4f068a" target="_blank">drugs addiction</a>
     <p></p>
